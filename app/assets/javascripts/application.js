@@ -19,4 +19,3 @@
 //= require moment
 //= require fullcalendar
 //= require fullcalendar/gcal
-//= require gcal
